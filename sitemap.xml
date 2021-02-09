@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://teahouse.by/</loc>
+	<lastmod>2020-09-23T17:09:11+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://teahouse.by/index.html</loc>
+	<lastmod>2020-09-23T17:09:11+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://teahouse.by/html/catalog.html</loc>
+	<lastmod>2020-09-23T17:09:13+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://teahouse.by/html/shopping.html</loc>
+	<lastmod>2020-09-23T17:09:13+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://teahouse.by/about/privacy.html</loc>
+	<lastmod>2020-09-23T17:09:14+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+</urlset>
